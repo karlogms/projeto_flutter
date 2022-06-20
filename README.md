@@ -1,6 +1,13 @@
-# flutter_noite_banco
+# Projeto Flutter CRUD em Firebase
 
-A new Flutter project.
+Um projeto Flutter criado por:
+|
+- Karlo Rodrigo
+- Karen Martins 
+- Bruno Henrique 
+- João Porfirio 
+- Ravel Soares 
+- Gustavo Oliveira
 
 ## Getting Started
 
